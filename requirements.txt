@@ -17,4 +17,4 @@ tzdata
 uvicorn
 joblib
 sklearn
-scikit-learn
+
