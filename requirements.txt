@@ -10,11 +10,12 @@ pydantic
 python-dateutil
 pytz
 six
+scikit-learn
 sniffio
 starlette
 typing_extensions
 tzdata
 uvicorn
 joblib
-sklearn
+streamlit
 
