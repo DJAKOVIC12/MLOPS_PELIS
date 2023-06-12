@@ -1,6 +1,6 @@
+import pandas as pd
 
-
-df = pd.read_csv("movies_clean.csv")
+df = pd.read_csv("dataset/movies_clean.csv")
 
 def cantidad_filmaciones_mes(mes):
     cantidad = 0
