@@ -6,7 +6,7 @@
 </p>
 Hola a todos! En este proyecto se va a llevar a cabo un modelo de machine learning a partir de un dataset público, lanzado en una API lista para su consumo.
 Esta API proporciona un servicio de recomendación de películas basado en un modelo de aprendizaje automático,
-Utilizando técnicas de filtrado colaborativo y similitud de contenido para sugerir películas similares a una película dada. La idea del proyecto es simular el rol de un ML-Ops dentro de una start-up.
+Utilizando técnicas de filtrado colaborativo y similitud de contenido para sugerir películas similares a una película dada. La idea del proyecto es simular el rol de un ML-Ops dentro de una start-up.El video para que lo puedan ver esta en el siguiente link https://youtu.be/uuC9hvJTjQQ
 
 
 # Herramientas Utilizadas
