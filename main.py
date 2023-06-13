@@ -10,7 +10,7 @@ from EDA_2_ML_kvecinos import get_recommendations, train_model
 
 app = FastAPI()
 
-df = pd.read_csv("dataset/movies_clean.csv")
+df = pd.read_csv("movies_clean.csv")
 
 def cantidad_filmaciones_mes(mes):
     cantidad = 0

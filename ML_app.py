@@ -6,7 +6,7 @@ import streamlit as st
 import joblib
 
 # Cargar el dataset
-data = pd.read_csv('dataset/movies_clean.csv')
+data = pd.read_csv('movies_clean.csv')
 
 data = data[['title', 'belongs_to_collection', 'original_language', 'genres', 'overview', 'popularity', 'production_companies', 'production_countries', 'release_date', 'cast', 'director']]
 
