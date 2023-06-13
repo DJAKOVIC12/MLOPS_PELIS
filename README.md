@@ -27,8 +27,8 @@ Utilizando técnicas de filtrado colaborativo y similitud de contenido para suge
 - Descargar la carpeta del repositorio y ejecutar la API de manera local (no olvides modificar la limitacion de la muestra en base a tu requisitos técnicos)
 - Si se desea solo utilizar la versión gafica de la API, seguir el siguiente link: https://djakovic12-mlops-pelis-ml-app-laj9i0.streamlit.app/
 - No olvidar que TODAS LAS CONSULTAS deben ir la primera letra con mayúscula, por ejemplo, lunes => Lunes o toystory => Toy Story
-- El deploy de la App esta en render en el siguiente link: linkrender
-- Link de api en docs : link render/docs
+- El deploy de la App esta en render en el siguiente link: https://mlops-pelis.onrender.com/
+- Link de api en docs : https://mlops-pelis.onrender.com/docs
 ## Bibliografía
 - Consignas del proyecto https://github.com/HX-PRomero/PI_ML_OPS/blob/main/Readme.md
 - Dataset original https://drive.google.com/drive/folders/1wtcFH99-FQCtG5eeQ9uVnr5PUft-oXvU
