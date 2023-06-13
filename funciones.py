@@ -1,12 +1,4 @@
-from fastapi import FastAPI, Response
-import pandas as pd
-import json
 
-#Instanciamos la app con FastAPI
-app = FastAPI()
-
-#Leemos el csv limpio
-df = pd.read_csv("movies_clean.csv")
 
 #Método que permite obtener la cantidad de peliculas estrenadas en el mes ingresdo
 @app.get("/cantidad-filmaciones_mes/{mes}")
